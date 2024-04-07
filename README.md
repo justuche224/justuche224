@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amoke Donald
 - 👀 I’m interested in exploring ideas
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on any javasript project
+- 💞️ I’m looking to collaborate on any javasript/typescript project
 - 📫 How to reach me: donaldamoke@gmail.com
 - ⚡ Fun fact: This might come as a shock but am an actual person.... kind off 😉
