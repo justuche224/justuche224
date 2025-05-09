@@ -1,6 +1,6 @@
 # Hi there, I'm Donald 👋
 
-I'm a final-year Computer Science student (B.Sc.) and a passionate full-stack web developer with over a year and a half of freelancing experience. I build scalable, maintainable, and performant web applications using cutting-edge technologies.
+I'm a full-stack web developer with over two years of freelancing experience. I build scalable, maintainable, and performant web applications using cutting-edge technologies.
 
 ---
 
