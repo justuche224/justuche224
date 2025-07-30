@@ -22,7 +22,7 @@ I'm a full-stack web developer with over two years of freelancing experience. I 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
 | [Chesshubonline](https://github.com/justuche224/chesshubonline.git) | Real-time chess platform with multiplayer, AI bot, and chat | Next.js, Pusher, MongoDB, Prisma |
-| [Xyen AI](https://github.com/justuche224/xyen-AI-quiz-generator.git) | PDF-to-quiz generator, transforming documents into interactive quizzes | Next.js, Node.js, Hono, PostgreSQL |
+| [Xyen AI](https://github.com/justuche224/xyen-ai.git) | PDF-to-quiz generator, transforming documents into interactive quizzes | Next.js, Node.js, Hono, PostgreSQL |
 | [Zynkart](https://github.com/justuche224/zynkart.git) | E-commerce SaaS for small businesses to go online with AI-powered content and marketing | Next.js, Tailwind, Prisma, Supabase |
 | [Jvst do it!](https://github.com/justuche224/jvst-do-it-app.git) | Native to-do app with reminders and recurring tasks and notification | React Native and Expo |
 | [Notestar](https://github.com/justuche224/notestar.git) | Web-based rich text editor built with Tiptap | Next.js, TypeScript |
