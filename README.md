@@ -6,7 +6,7 @@ I'm a full-stack web developer with over two years of freelancing experience. I 
 
 ## 🚀 About Me
 
-- 🎓 Final-year B.Sc. Computer Science student
+- 🎓 B.Sc. Computer Science
 - 💻 Full-Stack Developer (HTML, CSS, JavaScript, TypeScript)
 - ⚛️ Frontend: React.js, Next.js, Tailwind CSS, Tiptap
 - 🛠️ Backend: Node.js, Express.js, Bun & Hono, Prisma, Drizzle
