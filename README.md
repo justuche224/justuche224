@@ -15,13 +15,10 @@ I'm a full-stack engineer, DevOps enthusiast, and serial Linux distro hopper. I 
 
 | Project | What it does (and why it matters) | Tech Stack |
 | :--- | :--- | :--- |
-| **CLPPER Ecosystem** | A dual-app ecosystem ("CLPPER for Customers" and "Command Center") shipped successfully to the App Store. | React Native, Expo, EAS |
-| **Zynkart** | Scalable multi-tenant e-commerce SaaS architecture helping small businesses get digitalised. | Next.js, Tailwind, Prisma, Supabase |
-| **Xyen AI** | PDF to quiz generator that transforms static documents into interactive study sessions. | Next.js, Node.js, Hono, PostgreSQL |
-| **Zoomride** | Comprehensive business architecture and prototype for a solar-powered EV campus transit initiative. | Business & System Architecture |
-| **Chesshubonline** | Real-time multiplayer chess platform featuring AI bots and live chat. | Next.js, Pusher, MongoDB |
+| **[53XY](https://github.com/justuche224/53XY)** | Polished local video player for Android: smart episode grouping, gesture-driven playback (pinch-zoom, scrub previews, long-press speed boost), watch history, playlists, native thumbnail extraction, and a full Material You / M3 Expressive design system. 300+ tests passing. | React Native, Expo, ExoPlayer, SQLite, Kotlin |
+| **[Zynkart](https://github.com/justuche224/zynkart)** | Scalable multi-tenant e-commerce SaaS architecture helping small businesses get digitalised. | Next.js, Tailwind, Prisma, Supabase |
 
-> 🚧 **Currently busy:** Managing domain migrations, reviewing pull requests, and building out the next big startup architecture.
+> 🚧 **Currently busy:** Building [53XY](https://github.com/justuche224/53XY) and [Zynkart](https://github.com/justuche224/zynkart).
 
 ## 🛠️ The Arsenal
 
