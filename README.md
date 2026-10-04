@@ -20,7 +20,7 @@ Most of my client work lives in private repos, so the case studies are on my sit
 | :--- | :--- | :--- |
 | **[53XY](https://github.com/justuche224/53XY-Video-Player)** | My own Android video player. It has three hand-written Kotlin modules (frame extraction, system volume, share intents) and a subtitle engine built from scratch (SRT, WebVTT, ASS, encoding detection, delay-aware cue lookup). I watch everything on it. | React Native, Expo, Kotlin, SQLite |
 | **[Zynkart](https://github.com/justuche224/zynkart)** | Multi-tenant storefront SaaS with sub-domain and custom-domain routing and strict tenant isolation | Next.js, Drizzle, Postgres, better-auth |
-| **[Xyen AI](https://github.com/justuche224/xyen-ai)** | Turns lecture PDFs into quizzes using a Gemini-powered retrieval pipeline | React, Hono, oRPC, Gemini |
+| **[Xyen AI](https://github.com/justuche224/xyen-ai)** | Turns lecture PDFs into quizzes with Gemini, using a Postgres-backed job queue and freemium usage limits | React, Hono, oRPC, Gemini |
 
 ## 🛠️ What I work with
 
