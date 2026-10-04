@@ -1,56 +1,39 @@
-# Hi there, I'm Donald 👋
+# Hi, I'm Donald 👋
 
-I'm a full-stack engineer, DevOps enthusiast, and serial Linux distro hopper. I specialise in architecting scalable SaaS platforms, shipping native mobile ecosystems, and ensuring production databases do not spontaneously combust during migrations. 
+Mobile engineer. I build iOS and Android apps with **React Native and Expo**, write **native modules in Kotlin and Swift** when a library won't do, and ship them all the way through App Store and Google Play review, with subscriptions, ads and analytics wired in. I can build the backend too, in TypeScript, Bun and Postgres.
 
-## 🚀 The TL;DR
+Based in Abuja, Nigeria (GMT+1). Working remotely, and open to new contract and full-time work.
 
-* 💻 **Engineering:** Transitioned from freelance to full-time remote full-stack and DevOps engineering.
-* ⚛️ **The Core Stack:** TypeScript, React, Next.js, Bun, Hono. (Type safety is my love language).
-* 📱 **Mobile:** React Native, Expo, EAS (successfully wrestling with App Store approvals).
-* 🛠️ **DevOps & Infra:** Postgres, Coolify, GitHub Actions, Nginx, and executing database migrations without dropping tables.
-* 🐧 **Environment:** Proud Linux tinkerer customising shells across Pop!_OS, Zorin, and Mint.
-* ⚽ **AFK:** Analysing European football tactics, benchmarking Cyberpunk 2077 on custom hardware setups, and meticulously tweaking Android interfaces.
+## 📱 Shipped recently
 
-## 🌟 What I've Been Building
+Most of my client work lives in private repos, so the case studies are on my site.
 
-| Project | What it does (and why it matters) | Tech Stack |
+| | What | Highlights |
 | :--- | :--- | :--- |
-| **[53XY](https://github.com/justuche224/53XY)** | Polished local video player for Android: smart episode grouping, gesture-driven playback (pinch-zoom, scrub previews, long-press speed boost), watch history, playlists, native thumbnail extraction, and a full Material You / M3 Expressive design system. 300+ tests passing. | React Native, Expo, ExoPlayer, SQLite, Kotlin |
-| **[Zynkart](https://github.com/justuche224/zynkart)** | Scalable multi-tenant e-commerce SaaS architecture helping small businesses get digitalised. | Next.js, Tailwind, Prisma, Supabase |
+| **[Left Right: Photo Cleaner](https://www.donaldamoke.com/work/left-right)** | iOS and Android photo cleaner for Allora Foundry. I was the lead engineer, with about 95% of the commits. | Hand-built Kotlin and Swift modules for perceptual photo hashing, RevenueCat subscriptions behind a custom paywall, AdMob, AppsFlyer, Sentry, and 1,759 tests. First commit to store review in about six weeks. |
+| **[CLPPER](https://www.donaldamoke.com/work/clpper)** | Barbershop marketplace: a customer app and a barber app | Rebuilt both apps in Expo and React Native. Both are live, with Stripe, Apple Pay, Google Pay, RevenueCat and OTA updates, and I'm on a retainer to maintain them. |
+| **[Logistics platform](https://www.donaldamoke.com/work/logistics-platform)** | Live logistics and merchant platform (client confidential) | Three Expo apps, four Next.js dashboards, a Bun/ElysiaJS API, and the servers they run on. |
 
-> 🚧 **Currently busy:** Building [53XY](https://github.com/justuche224/53XY) and [Zynkart](https://github.com/justuche224/zynkart).
+## 🔓 Open source
 
-## 🛠️ The Arsenal
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[53XY](https://github.com/justuche224/53XY-Video-Player)** | My own Android video player. It has three hand-written Kotlin modules (frame extraction, system volume, share intents) and a subtitle engine built from scratch (SRT, WebVTT, ASS, encoding detection, delay-aware cue lookup). I watch everything on it. | React Native, Expo, Kotlin, SQLite |
+| **[Zynkart](https://github.com/justuche224/zynkart)** | Multi-tenant storefront SaaS with sub-domain and custom-domain routing and strict tenant isolation | Next.js, Drizzle, Postgres, better-auth |
+| **[Xyen AI](https://github.com/justuche224/xyen-ai)** | Turns lecture PDFs into quizzes using a Gemini-powered retrieval pipeline | React, Hono, oRPC, Gemini |
 
-**Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
+## 🛠️ What I work with
 
-**Backend & Runtimes**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Bun](https://img.shields.io/badge/Bun-000000?logo=bun)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
+* **Mobile:** React Native · Expo (EAS Build, Submit, Update) · Expo Router · Reanimated · Kotlin · Swift
+* **Money & analytics:** RevenueCat · Stripe · Apple Pay / Google Pay · AdMob · AppsFlyer · Sentry
+* **Backend:** TypeScript · Node · Bun · Hono · ElysiaJS · PostgreSQL · Drizzle · Next.js
+* **Infra:** AWS S3 · VPS · Docker · Coolify · Nginx · GitHub Actions
 
-**Databases & ORMs**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=black)
+Away from the keyboard: Linux distro hopping, European football tactics, and over-tuning Android.
 
-**DevOps & Tools**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+## 📫 Get in touch
 
-## 📫 Get In Touch
-
-* 🌐 **Portfolio:** [donald-amoke.vercel.app](https://donald-amoke.vercel.app)
+* 🌐 **Portfolio:** [donaldamoke.com](https://www.donaldamoke.com)
 * 📧 **Email:** donaldamoke@gmail.com
-* 💼 **LinkedIn:** [Donald Amoke](https://linkedin.com/in/donald-amoke)
-* 🐦 **Twitter/X:** [@jvstuche](https://x.com/jvstuche)
-
-Thanks for stopping by! Feel free to explore my repositories or reach out if you want to collaborate on a project, debate Linux desktop environments, or talk football.
+* 💼 **LinkedIn:** [donald-amoke](https://linkedin.com/in/donald-amoke)
+* 🐦 **X:** [@jvstuche](https://x.com/jvstuche)
